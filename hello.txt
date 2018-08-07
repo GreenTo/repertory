@@ -1,1 +1,5 @@
-helloworld.............
+<<<<<<< HEAD
+hello,world
+=======
+hello,world
+>>>>>>> feature1
